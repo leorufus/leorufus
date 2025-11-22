@@ -1,90 +1,105 @@
-# 👋 Hi, I'm Leonardo Rojo
+# 👋 Hi, I'm Leonardo Rojo  
+### Structural Engineer · Software Architect · Creator of Intelligent Engineering Systems  
+**Founder of Rufus Engineering**
 
-**Structural Engineer · Software Architect · BIM & AI Solutions Developer**
-
-I create high-performance engineering software used in real infrastructure and building projects.  
-My work integrates **structural engineering expertise**, **advanced .NET development**, and **AI-driven workflows** to deliver reliable, scalable tools for design and analysis.
-
----
-
-## 🌐 Professional Focus
-
-I specialize in designing systems that bring together:
-
-- **Civil & Structural Engineering Logic**  
-- **Computational Geometry & 3D Visualization**  
-- **BIM Interoperability & Data Modeling**  
-- **Machine Learning & AI-assisted design**  
-- **Modern .NET/WPF application architecture**
-
-My background includes more than 15 years in infrastructure and building structures (bridges, viaducts, deep foundations, RC and steel systems), combined with 10 years building engineering applications.
+I build high-performance engineering software used in real infrastructure and building projects.  
+My work combines structural engineering rigor, computational geometry, BIM interoperability and AI-driven automation.
 
 ---
 
-## 🧱 Key Projects
+## 🌐 What I Do  
+### Engineering × Software × Intelligent Automation
 
-### **CivilPlan**
-Enterprise-grade platform for structural and geotechnical design in infrastructure projects.  
-Includes analytical models, 3D visualization, soil layers, load management, reinforcement design, and workflow automation.
-
-### **IngeniumApp / WISE**
-A modular environment for building analysis models, designed for multi-user collaboration and alignment with BIM workflows.
-
-### **StructML / MeshMaster**
-Framework for versioning, analyzing, and comparing structural models and triangulated meshes.  
-Provides ML-ready data, semantic/episodic memory, and multi-level diffs.
-
-### **Viewer3D.Core**
-High-performance 3D engine for engineering visualization (meshes, solids, heatmaps, bar diagrams, sections).
-
-### **ProjectMemory**
-AI-supported memory architecture for large codebases:  
-structured logs, semantic summaries, context persistence, and GitHub Actions automation.
-
-### **RobotStructuralConnect**
-Interop toolkit for Autodesk Robot Structural Analysis (RobotOM API), modernized for .NET 8.
+I design hybrid systems where engineering truth shapes software architecture.  
+Clear logic, reliable automation, no black boxes.
 
 ---
 
-## 🔍 What I'm Working on Now
-
-- Applying **ML.NET** to structural design pre-dimensioning and optimization  
-- Mapping **analytical models (SAF/JSaf)** into structured ML matrices  
-- AI-driven workflows for model evolution, comparison and inference  
-- Modularizing legacy engineering software into modern .NET 8 architectures  
-- Designing a clean, scalable data ecosystem for engineering applications
+## 🔍 Technical Focus  
+- Computational modeling & data structures  
+- Geometry pipelines & custom 3D visualization  
+- Analytical ↔ physical model consistency  
+- BIM interoperability (SAF/JSAF, Tekla, Robot)  
+- AI-assisted workflows & multi-agent automation  
+- Modern .NET/WPF architectures (MVVM, DDD)
 
 ---
 
-## 🛠️ Technology
+## 🧱 Domain Expertise  
+15+ years in structural engineering (bridges, viaducts, deep foundations, RC & steel)  
+10+ years building engineering applications:
+
+- Analytical models  
+- Soil/stratigraphy modeling  
+- Reinforcement & design workflows  
+- Model versioning & geometry audits  
+- Robot, Tekla, and SAF/JSAF integrations  
+- Applied AI for structural model evolution
+
+---
+
+## 🧩 Key Projects
+
+### **Wise Cloud**  
+Platform for structural & BIM workflows: model synchronization, geometry validation, SAF/JSAF automation, Robot↔Tekla integration.
+
+### **CivilPlan**  
+Enterprise toolkit for structural and geotechnical design: modeling, loads, reinforcement, visualization, workflow automation.
+
+### **RufusPilot**  
+AI-powered development orchestrator: semantic/episodic memory, agent workflows, GitHub Actions automation.
+
+### **MeshMaster / StructML**  
+Framework for analyzing, comparing, and versioning triangulated meshes and structural models.  
+Multi-level diffs, ML-ready data, semantic memory.
+
+### **Viewer3D.Core**  
+High-performance 3D engine for engineering visualization: solids, meshes, heatmaps, sections.
+
+### **RobotConnect**  
+Modern .NET interoperability for Autodesk Robot Structural Analysis.
+
+---
+
+## 🛠️ Tech Stack
 
 **Core:**  
-C# · .NET 7/8 · WPF · MVVM · EF Core · LINQ  
+C# · .NET 7/8 · WPF · MVVM · EF Core  
 
 **3D & Geometry:**  
-HelixToolkit · custom mesh pipelines · solids & triangulated surfaces  
+HelixToolkit · custom mesh/solid pipelines  
 
-**Engineering:**  
-Structural design workflows · geotechnics · BIM · RobotOM API · SAF/JSaf  
+**Engineering & BIM:**  
+Structural analysis workflows · geotechnics · reinforcement · SAF/JSAF · RobotOM API  
 
 **AI & Automation:**  
-ML.NET · multi-agent workflows · semantic memory · GitHub Actions · LLM-assisted reasoning  
+ML.NET · multi-agent workflows · semantic/episodic memory · GitHub Actions · LLM-augmented reasoning  
 
 ---
 
-## 🧩 A Bit More About Me
-
-I’ve always been a builder—first with physical objects, later with software.  
-Today I apply that same creative mindset to engineering technology:  
-systems that are reliable, elegant, and conceptually solid.
-
----
-
-## 📫 Connect
-
-- LinkedIn: **https://www.linkedin.com/in/leonardo-rojo**  
-- GitHub: **https://github.com/leorufus**
+## 🎯 Current Work  
+- ML.NET for structural pre-dimensioning & optimization  
+- SAF/JSaf analytical model matrices for ML pipelines  
+- AI-driven model evolution and inference  
+- Modularizing engineering systems into .NET 8 architectures  
+- Building a unified, scalable data ecosystem for engineering applications  
+- Developing agentic workflows (RufusPilot) for software evolution
 
 ---
 
-_If you work in structural engineering, BIM automation, or AI-powered design tools, feel free to reach out. I’m open to collaboration._
+## 🧠 Engineering Philosophy — *The Rufus Standard*  
+- **No Black Boxes** — everything explainable and auditable  
+- **Domain First** — engineering logic dictates software  
+- **Structural Rigor** — clarity and safety before speed  
+- **Depth Over Trends** — AI only where AI is the right tool  
+- **Transparency Over Hype** — measurable truth only  
+
+---
+
+## 📫 Connect  
+**LinkedIn:** https://www.linkedin.com/in/leonardo-rojo  
+**GitHub:** https://github.com/leorufus  
+
+If you work in structural engineering, BIM automation or AI-powered design tools, feel free to reach out.  
+I'm open to collaboration.
+
